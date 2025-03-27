@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Agraja</h1>
+<h1 align="center">Hi 👋, I'm agraja</h1>
 <h3 align="center">🚀 AI & Machine Learning Enthusiast | Python Developer | Tech Explorer from India 🇮🇳</h3>
 
 <p align="center">
