@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎯 I am an enthusiastic **AI/ML Enthusiast** who loves to learn and build cool tech stuff.
+- 🎯 I am an **AI/ML Enthusiast** who loves to learn and build cool tech stuff.
 - 🌱 Currently exploring **Computer Vision, NLP & Deep Learning**.
 - 🚀 Always excited to work on **Data-Driven Projects** and build impactful solutions.
 - 🧩 I believe in **Continuous Learning, Consistency & Creativity**.
@@ -66,5 +66,3 @@ Thanks for stopping by :)
 
 
 ---
-
-⭐️ *Feel free to fork this README and make it your own. Let's grow together!* 🚀
